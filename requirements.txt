@@ -1,0 +1,2 @@
+plotly
+speedtest-cli
